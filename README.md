@@ -1,5 +1,3 @@
-# AIO_187-homework_Object_detection_Project
-
 # Dự Án Nhận Diện Đối Tượng Bằng YOLOv10
 
 Đây là một dự án nhận diện đối tượng sử dụng YOLOv10 để phát hiện công nhân đội mũ bảo hiểm tại công trường xây dựng. Project này hướng dẫn bạn cách cài đặt và sử dụng model để phát hiện các đối tượng từ hình ảnh.
